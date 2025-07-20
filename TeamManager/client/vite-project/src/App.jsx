@@ -1,5 +1,5 @@
 import './App.css'
-import CreateComp from './components/createComp';
+import CreateComp from './components/CreateComp';
 import Homecomp from './components/HomeComp'
 import { Routes, Route } from 'react-router-dom';
 
